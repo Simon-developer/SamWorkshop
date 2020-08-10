@@ -145,13 +145,9 @@
 		            	<div class="project_detail" id="project3">
 		                	<div class="project_detail_wrapper_shadow">
 		                		<div class="slider">
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/1.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/2.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/3.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/4.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/5.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/6.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/7.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/aspect/1.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/aspect/2.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/aspect/3.png" alt=""></div>
 			                	</div>
 							
 			                    <div class="project_description">
@@ -162,12 +158,10 @@
 			                    	<div class="project_description_specs">
 			                    		<h3>Технологии</h3>
 			                    		<ul>
-			                    			<li><i class="icon fas fa-check-circle"></i>Machine Learning (TensorFlow)</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Cluster Analysis</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Tkinter</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Google Data API, VK API</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>MySQL</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Python 3.7</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>AVFoundation</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>UIKit+SwiftUI в одном экране</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>Combine</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>User Access (Dynamic interfaces)</li>
 			                    		</ul>
 			                    	</div>
 			                    </div>
@@ -176,29 +170,28 @@
 		                <div class="project_detail" id="project2">
 		                	<div class="project_detail_wrapper_shadow">
 		                		<div class="slider">
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/1.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/2.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/3.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/4.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/5.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/6.png" alt=""></div>
-			                		<div class="slider__item"><img src="img/sliders/adenginepc/7.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/1.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/2.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/3.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/4.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/5.png" alt=""></div>
+			                		<div class="slider__item"><img src="img/sliders/adengineios/6.jpg" alt=""></div>
 			                	</div>
 							
 			                    <div class="project_description">
 			                    	<div class="project_description_text">
-			                    		<h2>AdEngine iOS</h2>
+			                    		<h3>AdEngine iOS</h3>
 			                        	<p>Приложение-кампаньон, для удобного доступа рядовых пользователей к данным, собираемым AdEngine PC. Приложение помогает подбирать наиболее эффективные варианты рекламных размещений на платформе YouTube, в зависимости от параметров канала, блоггера и  аудитории.</p>
 			                    	</div>
 			                    	<div class="project_description_specs">
-			                    		<h2>Технологии</h2>
+			                    		<h3>Технологии</h3>
 			                    		<ul>
-			                    			<li><i class="icon fas fa-check-circle"></i>Machine Learning (TensorFlow)</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Cluster Analysis</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Tkinter</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Google Data API, VK API</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>MySQL</li>
-			                    			<li><i class="icon fas fa-check-circle"></i>Python 3.7</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>CocoaPods</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>UILayoutGuide</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>Lottie анимации</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>UIBezierPath</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>CoreAnimation</li>
+			                    			<li><i class="icon fas fa-check-circle"></i>OOP</li>
 			                    		</ul>
 			                    	</div>
 			                    </div>
@@ -218,11 +211,11 @@
 							
 			                    <div class="project_description">
 			                    	<div class="project_description_text">
-			                    		<h2>AdEngine PC</h2>
-		                        		<p>App for photo proccessing and creating high-quality animated instagram content.App for photo proccessing and creating high-quality animated instagram content.App for photo proccessing and creating high-quality animated instagram content.App for photo proccessing and creating high-quality animated instagram content.App for photo proccessing and creating high-quality animated instagram content.</p>
+			                    		<h3>AdEngine PC</h3>
+		                        		<p>Приложение для рекламодетелей по анализу каналов на YouTube. По названию канала, приложение находит всю доступную информацию. Программа проводит скрининг видео на канале и анализирует оставленные комментарии, классифицируя их как положительные и отрицательные при помощи нейронной сети для выделения отношения пользователей к контенту. Кроме того, из группы канала Вконтакте, программа "AdEngine" подгружает информацию о пользователях, предоставляя срез статистической информации о целевой аудитории сообщества канала. <br> Цель программы - повысить возврат инвестиций на рекламу в интернете.</p>
 			                    	</div>
 			                    	<div class="project_description_specs">
-			                    		<h2>Технологии</h2>
+			                    		<h3>Технологии</h3>
 			                    		<ul>
 			                    			<li><i class="icon fas fa-check-circle"></i>Machine Learning (TensorFlow)</li>
 			                    			<li><i class="icon fas fa-check-circle"></i>Cluster Analysis</li>
